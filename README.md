@@ -3,7 +3,7 @@
 Single-click area snipping app.
 
 * Get [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572?mt=12).
-* Create `Automator` -> `New` -> `Application`.
+* Do `Automator` -> `New` -> `Application`.
 
 ```AppleScript
     on run {input, parameters}
@@ -17,5 +17,5 @@ Single-click area snipping app.
     end run
 ```
 
-* `Command+C` -> `Command+V` any icon [like so](https://apple.stackexchange.com/a/372)
+* Set any icon by `Command+C` -> `Command+V` [like so](https://apple.stackexchange.com/a/372)
 * For sharing create `.dmg` via `Disk Utility` [like so](https://gist.github.com/jadeatucker/5382343).
