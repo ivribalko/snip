@@ -17,5 +17,6 @@ Single-click area snipping app.
     end run
 ```
 
+* Save with any name.
 * Set any icon by `Command+C` -> `Command+V` [like so](https://apple.stackexchange.com/a/372)
 * For sharing create `.dmg` via `Disk Utility` [like so](https://gist.github.com/jadeatucker/5382343).
